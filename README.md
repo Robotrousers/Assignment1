@@ -1,4 +1,4 @@
-## Assignment1 - Excel
+### Assignment1 - Excel
 Christopher Turner - Wk1Challenge
 
 This repo contains the following files: 
